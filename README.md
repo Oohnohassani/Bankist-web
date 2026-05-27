@@ -1,4 +1,4 @@
-## Bankist 🏦
+## <img src='./img/logo.png' width='160px' style='filter: brightness(0) invert(1);'/>
 
 > Banking made simple. Bankist is the modern way to manage your money — smarter, faster, and completely online.
 
@@ -25,11 +25,13 @@ Bankist is a minimalist, **desktop-only** marketing website for a fictional digi
 ### Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/bankist-website.git
    ```
 
 2. Navigate into the project folder:
+
    ```bash
    cd bankist-website
    ```
